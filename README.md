@@ -26,6 +26,9 @@ Competence Level
 - advanced / assessor
 	
 
+Heroku App
+	http://comptrac.herokuapp.com/
+
 Sprint 1
 --------
 - Research how to create a database for Acyclic graph for Skill dependencies
